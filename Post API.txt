@@ -1,0 +1,37 @@
+///// Post API
+
+Crud(create,read,update,delete)
+File upload
+Like,Dislike
+Number of views
+Post category(Admin)
+Post comment
+Add category
+
+
+///// Users API
+
+File upload to cloudinary (profil photo)
+Image Resising (server side)
+Authentification (login, logout)
+Data modelling
+Limit numer of request per user
+Toggle like and dislike of post Endpoint
+User management
+Block a user
+
+User profile
+User can view other profile
+Update profile
+Update password
+Forget password
+Sending email using sendgrid
+Account verification
+Block a user
+Roles
+Follow and unfollow user
+User can view other profile
+Who view my profile
+Unhealthy words
+Make post public or private
+Make your profile private for only login users
